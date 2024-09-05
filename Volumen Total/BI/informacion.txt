@@ -1,0 +1,1 @@
+volumen_bi, reemplazar el documento en funcion al reporte historico (este comienza con 062024), renombrar la tabla como "volumen_bi" y cargarla al bi, usar el mismo nombre y mismo nombre de tabla y convertir el csv en Excel
