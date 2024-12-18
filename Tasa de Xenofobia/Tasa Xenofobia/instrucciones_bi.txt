@@ -1,0 +1,2 @@
+Cada nueva actualización del archivo histórico, debe de generarse un nuevo archivo "bi_tasa_xenofobia_historico" y proceder a renombrar las tablas como "xeno_{pais}" 
+para ser cargadas de forma correcta al tablero de BI en donde se hará un consolidado y modelamiento para las visualizaciones del BI
