@@ -1,13 +1,13 @@
-Pais,Variable,Fecha,Dato
-Colombia,Mecanismo I,31/12/2024,26
-Colombia,Mecanismo II,31/12/2024,21
-Colombia,Mecanismo III,31/12/2024,44
-Ecuador,Mecanismo I,31/12/2024,10
-Ecuador,Mecanismo II,31/12/2024,18
-Ecuador,Mecanismo III,31/12/2024,18
-Peru,Mecanismo I,31/12/2024,217
-Peru,Mecanismo II,31/12/2024,157
-Peru,Mecanismo III,31/12/2024,343
-Chile,Mecanismo I,31/12/2024,2
-Chile,Mecanismo II,31/12/2024,2
-Chile,Mecanismo III,31/12/2024,1
+Pais;Variable;Fecha;Dato
+Colombia;Mecanismo I;31/12/2024;26
+Colombia;Mecanismo II;31/12/2024;21
+Colombia;Mecanismo III;31/12/2024;44
+Ecuador;Mecanismo I;31/12/2024;10
+Ecuador;Mecanismo II;31/12/2024;18
+Ecuador;Mecanismo III;31/12/2024;18
+Peru;Mecanismo I;31/12/2024;217
+Peru;Mecanismo II;31/12/2024;157
+Peru;Mecanismo III;31/12/2024;343
+Chile;Mecanismo I;31/12/2024;2
+Chile;Mecanismo II;31/12/2024;2
+Chile;Mecanismo III;31/12/2024;1
